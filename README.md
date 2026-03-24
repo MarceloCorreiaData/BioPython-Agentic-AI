@@ -57,7 +57,7 @@ BioPython-Agentic-AI/
 │           ├── SKILL.md
 │           └── tools.py
 ├── bio/                       # Core library (Sequence, FastaOrganism classes)
-├── arquivos/                  # Data files (Flaviviridae-genomes.fasta)
+├── data/                      # Data files (Flaviviridae-genomes.fasta)
 ├── .env.example               # Environment variables template
 ├── main.py                    # Entry point
 └── README.md

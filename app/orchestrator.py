@@ -51,7 +51,7 @@ You have access to a SkillToolset with 3 meta-tools:
 
 ## DATA
 
-The default FASTA file is located at: arquivos/Flaviviridae-genomes.fasta
+The default FASTA file is located at: data/Flaviviridae-genomes.fasta
 It contains 159 genomes of viruses from the Flaviviridae family.
 You do NOT know the contents of this file until you load it via fasta_reader.
 

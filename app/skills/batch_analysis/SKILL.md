@@ -25,5 +25,5 @@ JSON with list of results (one per organism), optionally sorted and limited.
 ## Usage example
 ```
 Question: "Which organism has the highest GC content?"
-Skill called: batch_analysis(file_path="files/Flaviviridae-genomes.fasta", operation="base_composition", sort_by="gc_content", top_n=5)
+Skill called: batch_analysis(file_path="data/Flaviviridae-genomes.fasta", operation="base_composition", sort_by="gc_content", top_n=5)
 ```

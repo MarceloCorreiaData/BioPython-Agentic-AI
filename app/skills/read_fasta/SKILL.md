@@ -22,5 +22,5 @@ JSON with:
 ## Usage example
 ```
 Question: "How many organisms are in the FASTA file?"
-Skill called: read_fasta(file_path="files/Flaviviridae-genomes.fasta")
+Skill called: read_fasta(file_path="data/Flaviviridae-genomes.fasta")
 ```
